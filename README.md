@@ -1,0 +1,1 @@
+Language Agent Tree Search implementation without the External web Search. All it needs is OpenAi API. For original code please visit https://github.com/langchain-ai/langgraph/blob/main/examples/lats/lats.ipynb
